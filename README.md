@@ -18,13 +18,9 @@ Deploy the example using [Vercel](https://vercel.com):
 
 ## Installation
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example git@github.com:riccardobevilacqua/nextjs-blog-starter-dark-theme.git <your-blog-name>
-# or
-yarn create next-app --example git@github.com:riccardobevilacqua/nextjs-blog-starter-dark-theme.git <your-blog-name>
-```
+1. Clone this repository
+1. `cd <your-project-folder>`
+1. `npm install`
 
 ## Development
 
