@@ -1,12 +1,20 @@
 {
-  "name": "riccardo-codes",
+  "name": "nextjs-blog-starter-dark-theme",
   "version": "1.0.0",
-  "private": true,
   "scripts": {
     "dev": "next",
     "build": "next build",
     "start": "next start"
   },
+  "keywords": [
+    "nextjs",
+    "react",
+    "blog",
+    "starter",
+    "dark",
+    "markdown",
+    "bulma"
+  ],
   "dependencies": {
     "bulma": "^0.9.1",
     "classnames": "2.2.6",
