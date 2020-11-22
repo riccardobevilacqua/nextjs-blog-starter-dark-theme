@@ -4,7 +4,7 @@ A beautiful Next.js blog starter featuring a minimal and elegant dark theme.
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com):
+Deploy this starter using [Vercel](https://vercel.com):
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/git?c=1&s=git@github.com:riccardobevilacqua/nextjs-blog-starter-dark-theme.git)
 
